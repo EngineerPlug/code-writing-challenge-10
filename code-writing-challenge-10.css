@@ -1,0 +1,16 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+    color:firebrick;
+}
+
+body {
+    align-items: center;
+}
+
+h1 {
+    background: #E4C440;
+    border-radius: 1px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
